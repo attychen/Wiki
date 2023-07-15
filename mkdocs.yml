@@ -72,7 +72,7 @@ plugins:
         utm_campaign: "feed-syndication"
 
 extra:
-  generator: true # 不显示 MkDocs 的版权
+  generator: false # 不显示 MkDocs 的版权
   analytics:
     provider: google
     property: G-084GDZM161 # 如果克隆我的站点，请把这串代码改成你自己的
